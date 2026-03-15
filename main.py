@@ -1,4 +1,4 @@
-from pcn_app.presentation.tkinter_app import run_app
+from src.presentation.tkinter_app import run_app
 
 
 if __name__ == "__main__":
